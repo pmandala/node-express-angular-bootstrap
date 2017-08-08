@@ -1,4 +1,4 @@
-# Garuda Web Application
+# Web Application
 
 ## Pre Build - Install all npm and bower dependencies
 
